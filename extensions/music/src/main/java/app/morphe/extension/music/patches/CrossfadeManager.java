@@ -2768,11 +2768,9 @@ public class CrossfadeManager {
      * on every crossfade-engagement hook fire (manual skip, auto-advance,
      * monitor tick).
      */
-    @SuppressWarnings({"deprecation", "RedundantSuppression"})
-java    
+    @SuppressWarnings({"deprecation", "RedundantSuppression"})    
      private static boolean isAudioRoutedToCast() {
          return false;
-
     }
     @SuppressWarnings({"deprecation", "RedundantSuppression"})
     @SuppressLint("MissingPermission")
