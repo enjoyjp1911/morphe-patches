@@ -2770,7 +2770,7 @@ public class CrossfadeManager {
      */
     @SuppressWarnings({"deprecation", "RedundantSuppression"})
     private static boolean isAudioRoutedToCast() {
-        return false;
+    return false;
     }
 
     @SuppressWarnings({"deprecation", "RedundantSuppression"})
