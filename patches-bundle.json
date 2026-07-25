@@ -1,7 +1,7 @@
 {
-  "created_at": "2026-07-25T16:53:08",
-  "description": "## [1.35.1](https://github.com/enjoyjp1911/morphe-patches/compare/v1.35.0...v1.35.1) (2026-07-25)\n\n### 🐛 Bug Fixes\n\n* resolve crossfade manager conflict ([4359e17](https://github.com/enjoyjp1911/morphe-patches/commit/4359e17371426f9aceee8f02eb1d081fa51c6321))",
-  "download_url": "https://github.com/enjoyjp1911/morphe-patches/releases/download/v1.35.1/patches-1.35.1.mpp",
+  "created_at": "2026-07-25T17:05:03",
+  "description": "## [1.36.0](https://github.com/enjoyjp1911/morphe-patches/compare/v1.35.1...v1.36.0) (2026-07-25)\n\n### ✨ New Features\n\n* release crossfade patch v1.36 ([d238a71](https://github.com/enjoyjp1911/morphe-patches/commit/d238a71585912634164faa1e983585bb3f0cfa15))",
+  "download_url": "https://github.com/enjoyjp1911/morphe-patches/releases/download/v1.36.0/patches-1.36.0.mpp",
   "signature_download_url": "",
-  "version": "1.35.1"
+  "version": "1.36.0"
 }

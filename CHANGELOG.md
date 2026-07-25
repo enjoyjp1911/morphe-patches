@@ -1,3 +1,9 @@
+## [1.36.0](https://github.com/enjoyjp1911/morphe-patches/compare/v1.35.1...v1.36.0) (2026-07-25)
+
+### ✨ New Features
+
+* release crossfade patch v1.36 ([d238a71](https://github.com/enjoyjp1911/morphe-patches/commit/d238a71585912634164faa1e983585bb3f0cfa15))
+
 ## [1.35.1](https://github.com/enjoyjp1911/morphe-patches/compare/v1.35.0...v1.35.1) (2026-07-25)
 
 ### 🐛 Bug Fixes
