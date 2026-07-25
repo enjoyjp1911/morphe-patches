@@ -4,12 +4,6 @@
 
 * release crossfade patch v1.36 ([d238a71](https://github.com/enjoyjp1911/morphe-patches/commit/d238a71585912634164faa1e983585bb3f0cfa15))
 
-## [1.35.1](https://github.com/enjoyjp1911/morphe-patches/compare/v1.35.0...v1.35.1) (2026-07-25)
-
-### 🐛 Bug Fixes
-
-* resolve crossfade manager conflict ([4359e17](https://github.com/enjoyjp1911/morphe-patches/commit/4359e17371426f9aceee8f02eb1d081fa51c6321))
-
 ## [1.35.0](https://github.com/enjoyjp1911/morphe-patches/compare/v1.34.0...v1.35.0) (2026-07-25)
 
 ### 🐛 Bug Fixes
